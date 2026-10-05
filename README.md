@@ -1,5 +1,5 @@
 # ⚔️ PROJECT ARENA
-A small text-based (at this moment) fighting game written in Java.
+A small text-based fighting game written in Java.
 It simulates semi-turn-based fights between two characters.
 
 This is intended to let me experiment simple game mechanics and design, a way for me to dip into game development.
@@ -7,16 +7,14 @@ It also helps me practice different aspects of java and project management.
 
 ---
 ## ▶️ STATUS
-⏸️ TEMPORARILY PAUSED ⏸️
-
-While I prepare for transitioning into a Computer Science degree, this project is on hold.
-Development will resume in the future.
-
+🛑 DISCONTINUED 🛑
+I will be using the concept of this in a different project, however, this one won't be continued any longer
+ 
 ---
 
 ## 🎯 GOALS
-The primary purpose of the project is LEARNING.
-I want to:
+The primary purpose of the project was LEARNING.
+I wanted to:
 - practice programming with Java (in general)
 - learn project architecture and structure
 - experiment with game mechanics
@@ -25,7 +23,7 @@ I want to:
 ---
 
 ## 💡 FEATURES
-Currently implemented features:
+Implemented features:
 
 **Menu and User input:**
 - menu and sub-menus
@@ -52,7 +50,7 @@ Currently implemented features:
 ---
 
 ## 🧪 ROADMAP
-**Planned features/improvements:**
+**Features/improvements that were planned:**
 - finalizing stability
 - remodelling the combat (adding defense/block and/or dodge, balance improvement)
 - buffs
@@ -62,10 +60,10 @@ Currently implemented features:
 - items
 - save/load system
 - graphics (possibly)
-
+Even though I didn't include these in this project, I will keep them in mind for later
 ---
 
-## 🧠 ARCHITECHTURE OVERVIEW
+## 🧠 ARCHITECTURE OVERVIEW
 - **Arena**
   - the manager of the project
   - handles combat and the different fighter-objects
@@ -128,8 +126,8 @@ Format: DD.MM.YYYY
 ---
 
 ## 📌 NOTES
-This project is part of me learning Java and my first bigger project.
-The code/architecture is most likely flawed and will change as I learn new concepts.
+This project was part of me learning Java and my first bigger project.
+The code/architecture is most likely flawed.
 Any feedback or suggestions are more than welcome :)
 
 ---
